@@ -17,7 +17,7 @@ The HUD uses 0.01-0.03ms, which depends on your CPU strenght. Means better CPU =
 Yes the HUD blocks any Codeblocks and XSS Cross Scripting Texts in the notify automaticly and Drops the Player!
 
 #### You need it unobfuscated or need other scripts made by us?
-Contact us by using: [m6tro](https://discord.com/users/1013917115868250243) or [zzfxnn](https://discord.com/users/1158996506712481844)
+Contact us by using Discord: [m6tro](https://discord.com/users/1013917115868250243) or [zzfxnn](https://discord.com/users/1158996506712481844)
 
 
 # HUD Triggers - Hide HUD, Notify, Helpnotify and Progressbar
