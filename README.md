@@ -49,3 +49,5 @@ TriggerEvent('ms_hud:setStatus')
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+[APACHE](https://choosealicense.com/licenses/apache-2.0/)
+[DMCA](https://www.dmca.com/badges.aspx?r=m)
