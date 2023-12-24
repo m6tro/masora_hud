@@ -9,7 +9,6 @@ No the HUD only works with ESX and we dont give any support for qbcore user.
 
 #### How does the HUD looks like?
 Here's a picture how it exactly looks: [Showcase](https://metro.isfucking.pro/gAgRDE.png)
-
 #### How much ms does the HUD have in the resmon?
 The HUD uses 0.01-0.03ms, which depends on your CPU strenght. Means better CPU = better ms in resmon!
 
