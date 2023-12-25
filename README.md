@@ -4,7 +4,7 @@ This resource includes a fully responsive and modern HUD for FiveM! It has a mod
 ## Used Languages
 <img src="https://img.shields.io/badge/Lua-black?style=for-the-badge&logo=lua" alt="Lua"> <img src="https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3" alt="CSS3"> <img src="https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js" alt="Node.js">
 
-## FAQ
+# FAQ
 
 #### Does the HUD work with qbcore
 No the HUD only works with ESX and we dont give any support for qbcore user.
