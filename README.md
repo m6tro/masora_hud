@@ -1,5 +1,5 @@
 # masora_hud
-This resource is a fully responsive and modern HUD written in Lua, Html, Css and JavaScript! It has a modern look and was designed by MATTIWE DESIGN:
+This resource is a fully responsive and modern HUD written in Lua, Html, Css and JavaScript! It has a modern look and was designed by MATTIWE DESIGN.
 
 
 ## FAQ
