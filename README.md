@@ -23,8 +23,6 @@ Contact us by using Discord: [m6tro](https://discord.com/users/10139171158682502
 
 # HUD Triggers - Hide HUD, Notify, Helpnotify and Progressbar
 
-## Integrate this into your resources
-
 ### Triggerlist
 ```
 TriggerEvent('ms_hud:notify', 'success', 'Das ist eine Test-Notify Nachricht!') -- Suc
