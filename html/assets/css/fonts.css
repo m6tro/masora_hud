@@ -1,0 +1,28 @@
+@font-face { 
+  font-family: 'RegularM';
+  src: url('../fonts/MonumentExtended-Regular.otf');
+}
+@font-face { 
+  font-family: 'Dafoe';
+  src: url('../fonts/MrDafoe-Regular.ttf');
+}
+@font-face { 
+  font-family: 'Bold';
+  src: url('../fonts/PPMonumentExtended-Bold.ttf');
+}
+@font-face { 
+  font-family: 'Book';
+  src: url('../fonts/PPMonumentExtended-Book.ttf');
+}
+@font-face { 
+  font-family: 'Medium';
+  src: url('../fonts/PPMonumentExtended-Medium.ttf');
+}
+@font-face { 
+  font-family: 'Regular';
+  src: url('../fonts/PPMonumentExtended-Regular.ttf');
+}
+@font-face { 
+  font-family: 'SemiBold';
+  src: url('../fonts/PPMonumentExtended-Semibold.ttf');
+}
