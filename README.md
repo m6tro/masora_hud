@@ -21,7 +21,7 @@ Yes the HUD blocks any Codeblocks and XSS Cross Scripting Texts in the notify au
 Contact us by using Discord: [m6tro](https://discord.com/users/1013917115868250243) or [zzfxnn](https://discord.com/users/1158996506712481844)
 
 
-# HUD Triggers - Hide HUD, Notify, Helpnotify and Progressbar
+# HUD Triggers - Hide HUD, Notify, Announce, Helpnotify and Progressbar
 
 ### Triggerlist
 ```
