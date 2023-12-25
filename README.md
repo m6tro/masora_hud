@@ -14,8 +14,8 @@ Here's a picture how it exactly looks: [Showcase](https://metro.isfucking.pro/Ed
 #### How much ms does the HUD have in the resmon?
 The HUD uses 0.01-0.03ms, which depends on your CPU strenght. Means better CPU = better ms in resmon!
 
-#### Is the HUD XSS Exploitsafe?
-Yes the HUD blocks any Codeblocks and XSS Cross Scripting Texts in the notify automaticly and Drops the Player!
+#### Is the HUD exploitable?
+No! The HUD blocks any Codeblocks and XSS Cross Scripting Texts in the Notify/Announce automaticly and Drops the Player!
 
 #### You need it unobfuscated or need other scripts made by us?
 Contact us by using Discord: [m6tro](https://discord.com/users/1013917115868250243) or [zzfxnn](https://discord.com/users/1158996506712481844)
