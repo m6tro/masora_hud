@@ -10,7 +10,7 @@ This resource includes a fully responsive and modern HUD for FiveM! It has a mod
 No the HUD only works with ESX and we dont give any support for qbcore user.
 
 #### How does the HUD looks like?
-Here's a picture how it exactly looks: [Showcase](https://metro.isfucking.pro/EdHAqz.png)
+Here's a picture how it exactly looks: [Showcase](https://metro.is-cute.wtf/💀/%E2%80%8C%E2%80%8B%E2%81%A0%E2%81%A0%E2%80%8B%E2%80%8B%E2%81%A0%E2%80%8D%E2%80%8B%E2%80%8B%E2%80%8B%E2%80%8D%E2%80%8B%E2%80%8D%E2%80%8D%E2%80%8C%E2%81%A0%E2%80%8C%E2%81%A0%E2%80%8B%E2%81%A0%E2%80%8B%E2%81%A0%E2%80%8D%E2%80%8D%E2%80%8D%E2%80%8B%E2%80%8D%E2%80%8C%E2%81%A0%E2%80%8B)
 #### How much ms does the HUD have in the resmon?
 The HUD uses 0.01-0.03ms, which depends on your CPU strenght. Means better CPU = better ms in resmon!
 
