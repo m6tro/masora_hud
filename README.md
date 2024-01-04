@@ -25,14 +25,14 @@ Contact us by using Discord: [m6tro](https://discord.com/users/10139171158682502
 
 ### Triggerlist
 ```
-TriggerEvent('ms_hud:notify', 'success', 'Das ist eine Test-Notify Nachricht!') -- Suc
-TriggerEvent('ms_hud:notify', 'warning', 'Das ist eine Test-Notify Nachricht!')
-TriggerEvent('ms_hud:notify', 'error', 'Das ist eine Test-Notify Nachricht!')
-TriggerEvent('ms_hud:notify', 'info', 'Das ist eine Test-Notify Nachricht!')
-TriggerEvent('ms_hud:announce', 'Das ist eine Test-Announce Nachricht!')
-TriggerEvent('ms_hud:progressbar', 7500)
-TriggerEvent('ms_hud:helpNotify', 'Drücke E zum Interagieren')
-TriggerEvent('ms_hud:setStatus')
+TriggerEvent('ms_hud:notify', 'success', 'Das ist eine Test-Notify Nachricht!') -- Success Notify
+TriggerEvent('ms_hud:notify', 'warning', 'Das ist eine Test-Notify Nachricht!') -- Warning Notify
+TriggerEvent('ms_hud:notify', 'error', 'Das ist eine Test-Notify Nachricht!') -- Error Notify
+TriggerEvent('ms_hud:notify', 'info', 'Das ist eine Test-Notify Nachricht!') -- Info Notify
+TriggerEvent('ms_hud:announce', 'Das ist eine Test-Announce Nachricht!') -- Announce
+TriggerEvent('ms_hud:progressbar', 7500) -- Progressbar
+TriggerEvent('ms_hud:helpNotify', 'Drücke E zum Interagieren') -- Help Notify
+TriggerEvent('ms_hud:setStatus') -- Show or Hide HUD
 ```
 
 
